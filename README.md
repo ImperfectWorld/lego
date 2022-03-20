@@ -1,5 +1,23 @@
 # lego
 
+## 描述
+vue3 jsx 实现可视化搭建平台
+
+## 核心知识点
+- vue3
+- 拖拽API
+    - drop
+    - draggable
+    - dragenter
+    - dragover
+    - dragleave
+    - onDragstart
+    - onDragend
+- 鼠标事件API
+    - onMousedown
+    - mousemove
+    - mouseup
+
 ## Project setup
 ```
 npm install
@@ -15,5 +33,3 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
