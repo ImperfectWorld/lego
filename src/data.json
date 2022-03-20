@@ -1,0 +1,11 @@
+{
+    "container": {
+        "width": "550",
+        "height": "550"
+    },
+    "blocks": [
+        {"top": 100,"left": 100, "key": "text", "id": 1},
+        {"top": 200,"left": 100, "key": "button", "id": 2},
+        {"top": 300,"left": 100, "key": "input", "id": 3}
+    ]
+}
